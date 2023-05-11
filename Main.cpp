@@ -12,10 +12,10 @@ int main()
 {
 	//CoinReverse();
 	//Race();
-	InterimCheck();
+	//InterimCheck();
 	//PredictTime();
 	//MeasureTreeheight();
-	//DrawTrigonometricfunctions();
+	DrawTrigonometricfunctions();
 	//ScientificCalc();
 
 	return 0;

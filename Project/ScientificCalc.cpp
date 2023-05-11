@@ -56,7 +56,7 @@ void ScientificCalc()
 				square_root();
 				break;
 
-			case 7:
+			case 7: // 만약 7 을 입력받은 경우 종료한다
 				Loop = false;
 				break;
 		}
